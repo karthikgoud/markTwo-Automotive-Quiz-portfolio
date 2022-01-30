@@ -53,6 +53,8 @@ for (var i=0;i<questions.length;i++){
   play(currentQuestion.question,currentQuestion.answer);
 }
 
+console.log("Grand score is : "+score);
+
 // link to play live 
 
 // https://replit.com/@karthikgoud5/markTwo-Auto-Quiz-portfolio?embed=1&output=1
