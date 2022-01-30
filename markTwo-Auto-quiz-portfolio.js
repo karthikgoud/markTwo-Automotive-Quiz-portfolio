@@ -55,6 +55,13 @@ for (var i=0;i<questions.length;i++){
 
 console.log("Grand score is : "+score);
 
+// last message
+if (score >=4){
+    console.log ("Well done");
+  }else{
+    console.log ("Try again")
+  }
+
 // link to play live 
 
 // https://replit.com/@karthikgoud5/markTwo-Auto-Quiz-portfolio?embed=1&output=1
